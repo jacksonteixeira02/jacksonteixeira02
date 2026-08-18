@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jacksonteixeira02/jacksonteixeira02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jackson Teixeira
 
-Here are some ideas to get you started:
+### Software Developer | Java | SQL | Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Sobre
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software utilizando Java e banco de dados relacionais.
+
+Tenho experiência acadêmica e prática em projetos envolvendo Programação Orientada a Objetos, modelagem de banco de dados, desenvolvimento web e controle de versões com Git.
+
+Atualmente busco aprofundar meus conhecimentos em desenvolvimento backend com Java e construir soluções escaláveis e bem estruturadas.
+
+---
+
+## Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,mysql,sqlite,python,html,css,git,github,vscode,eclipse" />
+</p>
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jacksonteixeira02&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonteixeira02&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Projetos
+
+### SeniorCare
+
+Sistema de acompanhamento e assistência para idosos desenvolvido em Java utilizando SQLite e conceitos de Programação Orientada a Objetos.
+
+### eCO2You
+
+Projeto desenvolvido durante o Entra21 voltado para gestão e acompanhamento de materiais recicláveis.
+
+### Sistema Escolar
+
+Aplicação para gerenciamento de alunos, professores, disciplinas e registros acadêmicos.
+
+---
+
+## Objetivos Profissionais
+
+* Aprimorar conhecimentos em Java e desenvolvimento backend
+* Estudar Spring Boot e arquiteturas modernas
+* Evoluir em modelagem e administração de bancos de dados
+* Participar de projetos de maior complexidade
+* Ingressar profissionalmente na área de desenvolvimento de software
+
+---
+
+## Contato
+
+LinkedIn: [www.linkedin.com/in/jackson-teixeira-a39925261](http://www.linkedin.com/in/jackson-teixeira-a39925261)
+
+GitHub: github.com/jacksonteixeira02
+
+</div>
