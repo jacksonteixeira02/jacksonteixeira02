@@ -2,73 +2,82 @@
 
 # Jackson Teixeira
 
-Software Developer • Java • SQL • Backend Development
+### Desenvolvedor Java em Formação
+
+Estudante de Análise e Desenvolvimento de Sistemas • UniCesumar
 
 </div>
 
 ---
 
-## Sobre
+## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software utilizando Java e banco de dados relacionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas na **UniCesumar**, com foco em desenvolvimento de software utilizando Java.
 
-Tenho experiência em Programação Orientada a Objetos, modelagem de banco de dados, SQL, desenvolvimento web e controle de versão com Git.
-
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento backend, boas práticas de programação e construção de aplicações escaláveis.
+Tenho interesse em desenvolvimento backend, banco de dados e boas práticas de programação. Atualmente busco ampliar minha experiência através de projetos práticos, estudos contínuos e desafios que contribuam para minha evolução profissional.
 
 ---
 
 ## Tecnologias
 
-* Java
-* SQL
-* SQLite
-* MySQL
-* Python
-* HTML
-* CSS
-* Git
-* GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,sqlite,python,html,css,git,github,vscode,eclipse" />
+</p>
 
 ---
 
-## Projetos
+## Projetos em Destaque
 
 ### SeniorCare
 
-Sistema de acompanhamento e assistência para idosos desenvolvido em Java utilizando SQLite e Programação Orientada a Objetos.
+Sistema de acompanhamento e assistência para idosos desenvolvido em Java, utilizando Programação Orientada a Objetos, JDBC e SQLite.
 
 ### eCO2You
 
-Projeto desenvolvido durante o Entra21 voltado para gestão e acompanhamento de materiais recicláveis.
+Projeto desenvolvido durante o Entra21 com foco em gestão e acompanhamento de materiais recicláveis.
 
-### Sistema Escolar
+### Projetos Acadêmicos
 
-Aplicação para gerenciamento de alunos, professores, disciplinas e registros acadêmicos.
-
----
-
-## Objetivos
-
-* Evoluir como desenvolvedor backend Java
-* Aprimorar conhecimentos em banco de dados
-* Estudar Spring Boot e APIs REST
-* Participar de projetos de maior complexidade
-* Ingressar profissionalmente na área de desenvolvimento de software
+Aplicações desenvolvidas durante a graduação para prática de desenvolvimento de software, modelagem de banco de dados e arquitetura orientada a objetos.
 
 ---
 
 ## Formação
 
-**Análise e Desenvolvimento de Sistemas**
-Uniasselvi
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+Centro Universitário UniCesumar
+
+Em andamento.
+
+---
+
+## Objetivos
+
+* Aprimorar conhecimentos em Java
+* Aprofundar estudos em Banco de Dados
+* Aprender Spring Boot
+* Desenvolver APIs REST
+* Construir projetos cada vez mais completos
+* Ingressar profissionalmente na área de desenvolvimento de software
+
+---
+
+## GitHub
+
+Atualmente utilizo este perfil para compartilhar projetos acadêmicos, estudos, experimentos e aplicações desenvolvidas durante minha formação.
 
 ---
 
 ## Contato
 
-LinkedIn: [www.linkedin.com/in/jackson-teixeira-a39925261](http://www.linkedin.com/in/jackson-teixeira-dev)
+LinkedIn: [www.linkedin.com/in/jackson-teixeira-a39925261](http://www.linkedin.com/in/jackson-teixeira-a39925261)
 
-GitHub: github.com/jacksonteixeira02
+Disponível para oportunidades de estágio, trainee e desenvolvimento de software.
+
+---
+
+<div align="center">
+
+*"A evolução acontece uma linha de código por vez."*
 
 </div>
