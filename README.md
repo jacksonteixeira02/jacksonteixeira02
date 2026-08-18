@@ -70,7 +70,7 @@ Atualmente utilizo este perfil para compartilhar projetos acadêmicos, estudos, 
 
 ## Contato
 
-LinkedIn: [www.linkedin.com/in/jackson-teixeira-a39925261](http://www.linkedin.com/in/jackson-teixeira-dev)
+LinkedIn: [https://www.linkedin.com/in/jackson-teixeira-dev](https://www.linkedin.com/in/jackson-teixeira-dev)
 
 Disponível para oportunidades de estágio, trainee e desenvolvimento de software.
 
