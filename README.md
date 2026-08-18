@@ -2,7 +2,7 @@
 
 # Jackson Teixeira
 
-### Software Developer | Java | SQL | Web Development
+Software Developer • Java • SQL • Backend Development
 
 </div>
 
@@ -10,31 +10,25 @@
 
 ## Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software utilizando Java e banco de dados relacionais.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software utilizando Java e banco de dados relacionais.
 
-Tenho experiência acadêmica e prática em projetos envolvendo Programação Orientada a Objetos, modelagem de banco de dados, desenvolvimento web e controle de versões com Git.
+Tenho experiência em Programação Orientada a Objetos, modelagem de banco de dados, SQL, desenvolvimento web e controle de versão com Git.
 
-Atualmente busco aprofundar meus conhecimentos em desenvolvimento backend com Java e construir soluções escaláveis e bem estruturadas.
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento backend, boas práticas de programação e construção de aplicações escaláveis.
 
 ---
 
 ## Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,sqlite,python,html,css,git,github,vscode,eclipse" />
-</p>
-
----
-
-## Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonteixeira02&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonteixeira02&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
-
-</div>
+* Java
+* SQL
+* SQLite
+* MySQL
+* Python
+* HTML
+* CSS
+* Git
+* GitHub
 
 ---
 
@@ -42,7 +36,7 @@ Atualmente busco aprofundar meus conhecimentos em desenvolvimento backend com Ja
 
 ### SeniorCare
 
-Sistema de acompanhamento e assistência para idosos desenvolvido em Java utilizando SQLite e conceitos de Programação Orientada a Objetos.
+Sistema de acompanhamento e assistência para idosos desenvolvido em Java utilizando SQLite e Programação Orientada a Objetos.
 
 ### eCO2You
 
@@ -54,13 +48,20 @@ Aplicação para gerenciamento de alunos, professores, disciplinas e registros a
 
 ---
 
-## Objetivos Profissionais
+## Objetivos
 
-* Aprimorar conhecimentos em Java e desenvolvimento backend
-* Estudar Spring Boot e arquiteturas modernas
-* Evoluir em modelagem e administração de bancos de dados
+* Evoluir como desenvolvedor backend Java
+* Aprimorar conhecimentos em banco de dados
+* Estudar Spring Boot e APIs REST
 * Participar de projetos de maior complexidade
 * Ingressar profissionalmente na área de desenvolvimento de software
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas**
+Uniasselvi
 
 ---
 
