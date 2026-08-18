@@ -67,7 +67,7 @@ Uniasselvi
 
 ## Contato
 
-LinkedIn: [www.linkedin.com/in/jackson-teixeira-a39925261](http://www.linkedin.com/in/jackson-teixeira-a39925261)
+LinkedIn: [www.linkedin.com/in/jackson-teixeira-a39925261](http://www.linkedin.com/in/jackson-teixeira-dev)
 
 GitHub: github.com/jacksonteixeira02
 
