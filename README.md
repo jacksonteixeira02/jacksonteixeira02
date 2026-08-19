@@ -1,101 +1,130 @@
-<div align="center">
-  <h1>Jackson Teixeira</h1>
-  <p><strong>Desenvolvedor de Software | Foco em Java & Backend</strong></p>
-  <p>Blumenau, Santa Catarina, Brasil</p>
+# Jackson Teixeira
 
-  <a href="https://www.linkedin.com/in/jackson-teixeira-dev">
+<p align="left">
+  <strong>Desenvolvedor de Software em Formação &bull; Foco em Java e Backend</strong><br>
+  <em>Blumenau, Santa Catarina, Brasil</em>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jackson-teixeira-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/jacksonteixeira02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:jacksongameplay13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<hr />
-
-## Sobre Mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas focado na construção de sistemas backend robustos, escaláveis e bem estruturados. Minha linguagem principal de desenvolvimento é **Java**, com forte embasamento em Programação Orientada a Objetos, bancos de dados relacionais e boas práticas de Engenharia de Software.
-
-Busco oportunidades de **Estágio, Trainee ou Desenvolvedor Júnior** onde eu possa aplicar meus conhecimentos em projetos reais, agregar valor ao time e evoluir tecnicamente no ecossistema Java.
+  <a href="https://github.com/jacksonteixeira02">
+    <img src="https://img.shields.io/badge/GitHub-jacksonteixeira02-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## Principais Tecnologias & Ferramentas
+### Sobre Mim
 
-### Linguagens e Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela **UniCesumar**, com formação complementar pelo programa **Jovem Programador (Senac / Entra21)**. 
 
-### Bancos de Dados
+Atualmente, dedico meus estudos ao ecossistema **Java** e ao desenvolvimento backend, construindo aplicações fundamentadas em boas práticas de Programação Orientada a Objetos (POO), modelagem de banco de dados relacional e arquitetura limpa. Possuo fluência em inglês avançado e base sólida em resolução de problemas e trabalho em equipe.
+
+Busco oportunidades de **estágio, trainee ou desenvolvedor júnior** para contribuir no desenvolvimento de software de alta qualidade, colaborar com equipes multidisciplinares e expandir minha experiência prática.
+
+---
+
+### Tecnologias e Ferramentas
+
+#### Principais
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Ferramentas e Ambientes
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Fedora Linux](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+#### Conhecimentos Complementares
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Ambiente e Ferramentas
+![Fedora Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
 ---
 
-## Projetos em Destaque
+### Projetos em Destaque
 
-### 🔹 SeniorCare
-> **Sistema de Acompanhamento e Assistência para Idosos**
-
-Aplicação desenvolvida para otimizar o gerenciamento de informações e cuidados com idosos, permitindo o acompanhamento estruturado de rotinas e alertas.
-
-* **Tecnologias:** Java, SQLite, JDBC, Orientação a Objetos.
-* **Destaques:** 
-  * Arquitetura organizada aplicando conceitos fundamentais de POO.
-  * Persistência de dados via JDBC integrada ao SQLite.
-  * Módulos de cadastro de idosos, cuidadores, agendamento de consultas e emissão de alertas.
-
----
-
-### 🔹 eCO2You
-> **Plataforma de Gestão e Sustentabilidade**
-
-Projeto desenvolvido no programa **Entra21** focado em auxiliar o acompanhamento, descarte correto e gerenciamento de materiais recicláveis.
-
-* **Tecnologias:** Java, SQL, desenvolvimento web.
-* **Destaques:** Resolução de um problema de impacto ambiental através da aplicação prática de lógica de programação e modelagem de dados.
-
----
-
-### 🔹 Phantom Watcher
-> **Mod para Minecraft publicado no CurseForge**
-
-Projeto pessoal desenvolvido para o ecossistema do Minecraft, demonstrando lógica de programação aplicada a sistemas de jogos, gerenciamento de eventos e publicação de software.
-
-* **Destaques:** Modificação de comportamentos do jogo, controle de dependências e distribuição de projeto para uma comunidade ativa.
-
----
-
-## Formação & Certificações
-
-* **Graduação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) — *UniCesumar*
-* **Formação Prática:** Jovem Programador (*Senac / Entra21*)
-* **Cursos Complementares:**
-  * Linguagem Python
-  * Inglês Avançado
-  * Administração
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">SeniorCare</h3>
+      <p>Sistema desktop para acompanhamento e assistência a idosos, focado na gestão segura de rotinas e cuidados.</p>
+      <ul>
+        <li><strong>Arquitetura & Stack:</strong> Java, SQLite, JDBC, POO.</li>
+        <li><strong>Funcionalidades:</strong> Cadastro de idosos e cuidadores, gestão de alertas de medicação, controle de consultas médicas e relatórios.</li>
+        <li><strong>Destaque:</strong> Aplicação prática de conceitos de orientação a objetos e persistência estruturada via JDBC.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/jacksonteixeira02/SeniorCare"><strong>Ver repositório &rarr;</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">eCO2You</h3>
+      <p>Projeto de impacto socioambiental desenvolvido durante o programa Entra21 para monitoramento e gestão sustentável.</p>
+      <ul>
+        <li><strong>Foco:</strong> Gerenciamento e acompanhamento de coleta de materiais recicláveis e engajamento sustentável.</li>
+        <li><strong>Metodologia:</strong> Desenvolvimento em equipe com foco em prazos, levantamento de requisitos e boas práticas de código.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/jacksonteixeira02/eCO2You"><strong>Ver repositório &rarr;</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="left">Phantom Watcher (Mod Minecraft)</h3>
+      <p>Modificação de gameplay desenvolvida em Java e publicada oficialmente no CurseForge, demonstrando habilidades com manipulação de eventos, lógica de jogo e integração de bibliotecas externas.</p>
+      <p>
+        <a href="https://www.curseforge.com/minecraft/mc-mods/phantom-watcher" target="_blank"><strong>Acessar no CurseForge &rarr;</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Áreas de Interesse & Foco de Estudo
+### Formação Acadêmica e Cursos
 
-* Desenvolvimento Backend (Ecossistema Java / Spring)
-* Construção e Integração de APIs REST
-* Modelagem e Otimização de Banco de Dados Relacionais
-* Arquitetura de Software e Design Patterns
-* Princípios SOLID e Clean Code
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** &mdash; *UniCesumar* (Em andamento)
+- **Jovem Programador** &mdash; *Senac / Entra21*
+- **Formação em Python** &mdash; *Concluído*
+- **Inglês Avançado** &mdash; *Concluído*
+- **Curso de Administração** &mdash; *Concluído*
 
 ---
 
-<div align="center">
-  <p><i>Aberto a conexões profissionais e oportunidades de desenvolvimento.</i></p>
-  <p>© Jackson Teixeira</p>
-</div>
+### Áreas de Interesse e Objetivos
+
+- Desenvolvimento Backend e Microsserviços
+- Arquitetura de Software e Padrões de Projeto (Design Patterns)
+- APIs RESTful e Integrações
+- Bancos de Dados Relacionais (Modelagem, Otimização e Consultas SQL)
+- Boas práticas de Engenharia de Software (Clean Code e SOLID)
+
+---
+
+### Contato
+
+<p align="left">
+  Se você tem interesse em meu perfil ou deseja trocar experiências sobre desenvolvimento Java, fique à vontade para entrar em contato:
+</p>
+
+- **LinkedIn:** [linkedin.com/in/jackson-teixeira-dev](https://www.linkedin.com/in/jackson-teixeira-dev)
+- **GitHub:** [github.com/jacksonteixeira02](https://github.com/jacksonteixeira02)
+- **Localização:** Blumenau, SC &mdash; Brasil
+
+<br>
+
+<p align="center">
+  <sub>Construindo software sólido com Java &bull; Jackson Teixeira &copy; 2026</sub>
+</p>
