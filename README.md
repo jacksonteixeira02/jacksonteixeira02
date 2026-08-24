@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a></div>---
 
-<h2>✦ Sobre mim</h2><p>
+<h2>Sobre mim</h2><p>
 Olá! Eu sou <b>Jackson Teixeira</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> e desenvolvedor em formação.
 </p><p>
 Minha trajetória na programação começou com <b>Java</b> e, desde então, venho construindo minha base em diferentes áreas do desenvolvimento de software, principalmente <b>backend, banco de dados e desenvolvimento Web</b>.
@@ -22,7 +22,7 @@ Atualmente, meu principal foco está em <b>Java e desenvolvimento de aplicaçõe
 <b>Aprender uma tecnologia é importante. Entender como utilizá-la para resolver problemas é ainda mais.</b>
 </blockquote>---
 
-<h2>✦ Minha trajetória</h2><table>
+<h2>Minha trajetória</h2><table>
 <tr>
 <td width="110" align="center"><b>2023</b>
 
@@ -58,7 +58,7 @@ Graduação em Análise e Desenvolvimento de Sistemas, formação Jovem Programa
 </tr>
 </table>---
 
-<h2>✦ Tecnologias</h2><h3>Backend & Programação</h3><p>
+<h2>Tecnologias</h2><h3>Backend & Programação</h3><p>
 <img src="https://skillicons.dev/icons?i=java,python,maven" />
 </p><h3>Banco de Dados</h3><p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
@@ -68,7 +68,7 @@ Graduação em Análise e Desenvolvimento de Sistemas, formação Jovem Programa
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux" />
 </p>---
 
-<h2>✦ Conhecimentos</h2><table>
+<h2>Conhecimentos</h2><table>
 <tr>
 <td width="50%" valign="top"><h3>Java</h3><ul>
 <li>Programação Orientada a Objetos</li>
@@ -105,7 +105,7 @@ Graduação em Análise e Desenvolvimento de Sistemas, formação Jovem Programa
 </tr>
 </table>---
 
-<h2>✦ Atualmente estudando</h2><table>
+<h2>Atualmente estudando</h2><table>
 <tr>
 <td width="33%" align="center"><h3>Java</h3>Programação Orientada a Objetos<br>
 JDBC<br>
@@ -132,7 +132,7 @@ Desenvolvimento Web
 <img src="https://img.shields.io/badge/APIs%20REST-Pr%C3%B3ximo%20passo-3A506B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Foco-172A3A?style=for-the-badge"/></p>---
 
-<h2>✦ Projetos em destaque</h2><table>
+<h2>Projetos em destaque</h2><table>
 <tr><td width="50%" valign="top"><h3>SeniorCare</h3><p>
 Sistema desenvolvido em <b>Java</b> para acompanhamento e assistência de idosos.
 </p><p>
@@ -169,13 +169,13 @@ O projeto representa também meu interesse por programação aplicada a jogos e 
 </p></td></tr>
 </table>---
 
-<h2>✦ Formação</h2><table>
+<h2>Formação</h2><table>
 <tr>
 <td width="100" align="center">🎓
 
 </td>
 <td><b>Análise e Desenvolvimento de Sistemas</b><br>
-Uniasselvi · Em andamento
+Unicesumar · Em andamento
 
 </td>
 </tr><tr>
@@ -205,7 +205,7 @@ Python · Inglês Avançado · Administração · Java · SQL · Banco de Dados 
 </tr>
 </table>---
 
-<h2>✦ Objetivos</h2><p>
+<h2>Objetivos</h2><p>
 Meu objetivo é continuar evoluindo como desenvolvedor de software, principalmente na área de <b>Backend</b>, aprofundando meus conhecimentos em Java, APIs, bancos de dados, frameworks e arquitetura de aplicações.
 </p><p>
 Quero transformar o conhecimento adquirido durante minha formação em <b>experiência prática</b>, trabalhando com projetos reais e enfrentando desafios que me permitam evoluir profissionalmente.
@@ -215,7 +215,7 @@ Quero transformar o conhecimento adquirido durante minha formação em <b>experi
 <img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-5BC0EB?style=for-the-badge"/>
 </p>---
 
-<h2>✦ Como eu aprendo</h2><table>
+<h2>Como eu aprendo</h2><table>
 <tr>
 <td align="center" width="25%"><b>01</b><br><br>
 Aprender
@@ -237,7 +237,7 @@ Acredito que programação se aprende principalmente <b>programando</b>.
 Sempre que possível, transformo aquilo que estou estudando em algum projeto ou experimento prático.
 </p>---
 
-<h2>✦ Curiosidades</h2><details>
+<h2>Curiosidades</h2><details>
 <summary><b>Por que Java?</b></summary><br>Java foi uma das principais linguagens da minha trajetória na programação.
 
 Comecei utilizando a linguagem para aprender lógica e Programação Orientada a Objetos e, com o tempo, passei a utilizá-la em projetos envolvendo banco de dados, CRUD, DAO e aplicações.
@@ -256,11 +256,11 @@ Acredito que experimentar tecnologias diferentes ajuda a desenvolver uma visão 
 
 </details>---
 
-<h2>✦ GitHub Stats</h2><div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksonteixeira02&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=9BADC4&text_color=9BADC4&icon_color=9BADC4&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonteixeira02&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=9BADC4&text_color=9BADC4"/></div><br><div align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=jacksonteixeira02&theme=transparent&hide_border=true&border_radius=5&ring=9BADC4&fire=9BADC4&currStreakLabel=9BADC4&sideLabels=9BADC4&dates=9BADC4"/></div>---
+<h2>GitHub Stats</h2><div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksonteixeira02&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=9BADC4&text_color=9BADC4&icon_color=9BADC4&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonteixeira02&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=9BADC4&text_color=9BADC4"/></div><br><div align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=jacksonteixeira02&theme=transparent&hide_border=true&border_radius=5&ring=9BADC4&fire=9BADC4&currStreakLabel=9BADC4&sideLabels=9BADC4&dates=9BADC4"/></div>---
 
-<h2>✦ Atividade no GitHub</h2><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonteixeira02&bg_color=00000000&color=9BADC4&line=9BADC4&point=FFFFFF&area=true&hide_border=true&custom_title=Jackson%20Teixeira%20-%20GitHub%20Activity"/></div>---
+<h2>Atividade no GitHub</h2><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonteixeira02&bg_color=00000000&color=9BADC4&line=9BADC4&point=FFFFFF&area=true&hide_border=true&custom_title=Jackson%20Teixeira%20-%20GitHub%20Activity"/></div>---
 
-<h2>✦ Um pouco de código</h2><div align="center">public class JacksonTeixeira {
+<h2>Um pouco de código</h2><div align="center">public class JacksonTeixeira {
 
     public static void main(String[] args) {
 
@@ -274,7 +274,7 @@ Acredito que experimentar tecnologias diferentes ajuda a desenvolver uma visão 
 
 </div>---
 
-<h2>✦ Vamos conversar?</h2><p align="center"><a href="https://github.com/jacksonteixeira02">
+<h2>Vamos conversar?</h2><p align="center"><a href="https://github.com/jacksonteixeira02">
 <img src="https://img.shields.io/badge/GitHub-Jackson%20Teixeira-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/teixeira-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-Jackson%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
