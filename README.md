@@ -8,7 +8,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/teixeira-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></div>---
+</a></div>
 
 <h2>Sobre mim</h2><p>
 Olá! Eu sou <b>Jackson Teixeira</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> e desenvolvedor em formação.
@@ -20,7 +20,7 @@ Gosto de aprender colocando a teoria em prática. Por isso, procuro transformar 
 Atualmente, meu principal foco está em <b>Java e desenvolvimento de aplicações</b>, enquanto continuo expandindo meus conhecimentos em banco de dados, Web, APIs e ferramentas utilizadas no desenvolvimento profissional.
 </p><br><blockquote>
 <b>Aprender uma tecnologia é importante. Entender como utilizá-la para resolver problemas é ainda mais.</b>
-</blockquote>---
+</blockquote>
 
 <h2>Minha trajetória</h2><table>
 <tr>
@@ -56,7 +56,7 @@ Graduação em Análise e Desenvolvimento de Sistemas, formação Jovem Programa
 
 </td>
 </tr>
-</table>---
+</table>
 
 <h2>Tecnologias</h2><h3>Backend & Programação</h3><p>
 <img src="https://skillicons.dev/icons?i=java,python,maven" />
@@ -66,7 +66,7 @@ Graduação em Análise e Desenvolvimento de Sistemas, formação Jovem Programa
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p><h3>Ferramentas</h3><p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux" />
-</p>---
+</p>
 
 <h2>Conhecimentos</h2><table>
 <tr>
@@ -103,7 +103,7 @@ Graduação em Análise e Desenvolvimento de Sistemas, formação Jovem Programa
 <li>Linux</li>
 </ul></td>
 </tr>
-</table>---
+</table>
 
 <h2>Atualmente estudando</h2><table>
 <tr>
@@ -130,7 +130,7 @@ Desenvolvimento Web
 
 <img src="https://img.shields.io/badge/Spring%20Boot-Em%20estudo-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/APIs%20REST-Pr%C3%B3ximo%20passo-3A506B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Foco-172A3A?style=for-the-badge"/></p>---
+<img src="https://img.shields.io/badge/Backend-Foco-172A3A?style=for-the-badge"/></p>
 
 <h2>Projetos em destaque</h2><table>
 <tr><td width="50%" valign="top"><h3>SeniorCare</h3><p>
@@ -167,7 +167,7 @@ O projeto representa também meu interesse por programação aplicada a jogos e 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white"/>
 </p></td></tr>
-</table>---
+</table>
 
 <h2>Formação</h2><table>
 <tr>
@@ -203,7 +203,7 @@ Python · Inglês Avançado · Administração · Java · SQL · Banco de Dados 
 
 </td>
 </tr>
-</table>---
+</table>
 
 <h2>Objetivos</h2><p>
 Meu objetivo é continuar evoluindo como desenvolvedor de software, principalmente na área de <b>Backend</b>, aprofundando meus conhecimentos em Java, APIs, bancos de dados, frameworks e arquitetura de aplicações.
@@ -213,7 +213,7 @@ Quero transformar o conhecimento adquirido durante minha formação em <b>experi
 <img src="https://img.shields.io/badge/Java-Foco%20principal-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Backend-Objetivo-3A506B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-5BC0EB?style=for-the-badge"/>
-</p>---
+</p>
 
 <h2>Como eu aprendo</h2><table>
 <tr>
@@ -235,7 +235,7 @@ Melhorar
 Acredito que programação se aprende principalmente <b>programando</b>.
 </p><p align="center">
 Sempre que possível, transformo aquilo que estou estudando em algum projeto ou experimento prático.
-</p>---
+</p>
 
 <h2>Curiosidades</h2><details>
 <summary><b>Por que Java?</b></summary><br>Java foi uma das principais linguagens da minha trajetória na programação.
@@ -254,9 +254,8 @@ Quando encontro um conceito novo, procuro colocar a mão no código, testar, enc
 
 Acredito que experimentar tecnologias diferentes ajuda a desenvolver uma visão mais ampla sobre programação.
 
-</details>---
-
-<h2>GitHub Stats</h2><div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksonteixeira02&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=9BADC4&text_color=9BADC4&icon_color=9BADC4&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonteixeira02&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=9BADC4&text_color=9BADC4"/></div><br><div align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=jacksonteixeira02&theme=transparent&hide_border=true&border_radius=5&ring=9BADC4&fire=9BADC4&currStreakLabel=9BADC4&sideLabels=9BADC4&dates=9BADC4"/></div>---
+</details>
+<h2>GitHub Stats</h2><div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksonteixeira02&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=9BADC4&text_color=9BADC4&icon_color=9BADC4&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonteixeira02&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=9BADC4&text_color=9BADC4"/></div><br><div align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=jacksonteixeira02&theme=transparent&hide_border=true&border_radius=5&ring=9BADC4&fire=9BADC4&currStreakLabel=9BADC4&sideLabels=9BADC4&dates=9BADC4"/></div>
 
 <h2>Atividade no GitHub</h2><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonteixeira02&bg_color=00000000&color=9BADC4&line=9BADC4&point=FFFFFF&area=true&hide_border=true&custom_title=Jackson%20Teixeira%20-%20GitHub%20Activity"/></div>---
 
@@ -272,7 +271,7 @@ Acredito que experimentar tecnologias diferentes ajuda a desenvolver uma visão 
     }
 }
 
-</div>---
+</div>
 
 <h2>Vamos conversar?</h2><p align="center"><a href="https://github.com/jacksonteixeira02">
 <img src="https://img.shields.io/badge/GitHub-Jackson%20Teixeira-181717?style=for-the-badge&logo=github&logoColor=white"/>
